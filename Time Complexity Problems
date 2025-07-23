@@ -1,0 +1,233 @@
+1. 
+for (int i = 0; i < n; i++)
+{
+    // do something
+}
+
+2. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j++)
+    {
+        // do something
+    }
+}
+
+3. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < i; j++)
+    {
+        // do something
+    }
+}
+
+4. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j++)
+    {
+        for (int k = 0; k < n; k++)
+        {
+            // do something
+        }
+    }
+}
+
+5. 
+for (int i = 1; i < n; i *= 2)
+{
+    // do something
+}
+
+6. 
+for (int i = n; i > 0; i /= 2)
+{
+    // do something
+}
+
+7. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 1; j < n; j *= 2)
+    {
+        // do something
+    }
+}
+
+8. 
+for (int i = 1; i < n; i = i * i)
+{
+    // do something
+}
+
+9. 
+for (int i = 0; i * i < n; i++)
+{
+    // do something
+}
+
+10. 
+for (int i = 0; i * i * i < n; i++)
+{
+    // do something
+}
+
+11. 
+for (int i = 0; i < 1000; i++)
+{
+    // do something
+}
+
+12. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < sqrt(n); j++)
+    {
+        // do something
+    }
+}
+
+13. 
+for (int i = 1; i < n; i *= 3)
+{
+    // do something
+}
+
+14. 
+for (int i = 0; i < log(n); i++)
+{
+    // do something
+}
+
+15. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < log(n); j++)
+    {
+        // do something
+    }
+}
+
+16. 
+for (int i = 0; i < sqrt(n); i++)
+{
+    for (int j = 0; j < sqrt(n); j++)
+    {
+        // do something
+    }
+}
+
+17. 
+for (int i = 0; i < n / 2; i++)
+{
+    // do something
+}
+
+18. 
+for (int i = 0; i < n; i += 2)
+{
+    // do something
+}
+
+19. 
+for (int i = 1; i < n; i *= i + 1)
+{
+    // do something
+}
+
+20. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < i * i; j++)
+    {
+        // do something
+    }
+}
+
+21. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < i; j++)
+    {
+        for (int k = 0; k < j; k++)
+        {
+            // do something
+        }
+    }
+}
+
+22. 
+for (int i = 0; i < n; i += sqrt(n))
+{
+    // do something
+}
+
+23. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j += sqrt(n))
+    {
+        // do something
+    }
+}
+
+24. 
+for (int i = 0; i < log(log(n)); i++)
+{
+    // do something
+}
+
+25. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < log(log(n)); j++)
+    {
+        // do something
+    }
+}
+
+26. 
+for (int i = 0; i < n * n; i++)
+{
+    // do something
+}
+
+27. 
+for (int i = 0; i < n * n; i++)
+{
+    for (int j = 0; j < n; j++)
+    {
+        // do something
+    }
+}
+
+28. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < log(n); j++)
+    {
+        for (int k = 0; k < log(n); k++)
+        {
+            // do something
+        }
+    }
+}
+
+29. 
+for (int i = 0; i < n; i *= 2)
+{
+    for (int j = 0; j < n; j++)
+    {
+        // do something
+    }
+}
+
+30. 
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j *= 2)
+    {
+        // do something
+    }
+}
